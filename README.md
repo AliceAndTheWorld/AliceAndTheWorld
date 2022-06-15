@@ -1,5 +1,6 @@
 # Alice ReadMe
-
+总访客次数：  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AliceAndTheWorld.AliceAndTheWorld)
 ## AliceAndTheWorld Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceAndTheWorld&theme=synthwave)](https://github.com/AliceAndTheWorld)
 <br>
